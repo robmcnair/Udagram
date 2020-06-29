@@ -1,0 +1,9 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "UdacityWebAppProject"
+    },
+    {   "ParameterKey": "StudentName",
+        "ParameterValue": "Robert McNair"
+    }
+]
